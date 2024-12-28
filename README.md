@@ -37,6 +37,7 @@
 
 
 ### 🎲 Dice Images
+
 Ensure the `images` directory contains six images named:
 - `dice1.png`  
 - `dice2.png`  
