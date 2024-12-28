@@ -18,11 +18,11 @@
 
 ### Initial Screen
 *What you see when the application starts.*  
-![Initial Screen](images/initial screen.png.png)
+![Initial Screen](images/initialscreen.png)
 
 ### Rolling the Dice
 *After clicking the "Roll" button.*  
-![Rolling Dice](images/rolling dice.png.png)
+![Rolling Dice](images/rollingdice.png)
 
 ---
 
