@@ -56,4 +56,21 @@ Each image should visually represent one side of a six-sided dice.
 2. Install the `Pillow` library (if not already installed):
    ```bash
    pip install pillow
+   ```
 
+### Installation
+1. Clone the repository or download the ZIP file:
+   ```bash
+      git clone https://github.com/your-username/Dice-Roll-Simulator.git
+      cd Dice-Roll-Simulator
+   ```
+2. Ensure the project structure matches the one described above, with dice images in the images directory.
+
+3. Run the Python script:
+   ```bash
+     python main.py
+   ```
+
+4. Interact with the GUI:
+   - Click the "Click To Roll" button to roll the dice.
+   - View the dice images and result announcement.
